@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin: 0;
+}
+
+.one {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-top, .header-main {
+    display: flex;
+}
+
+
+.two {
+    background-color: #eeeeee;
+}
+
+.three {
+    background-color: #E5E7EB;
+}
+
+.four {
+    background-color: #eeeeee;
+}
+
+.five {
+    background-color: #1F2937;
+}
