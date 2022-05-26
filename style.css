@@ -90,7 +90,35 @@ button {
 
 
 .two {
-    background-color: #eeeeee;
+    background-color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.two-chairman {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 80px;
+}
+
+.bossone, .bosstwo, .bossthree, .bossfour {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 150px;
+}
+
+.subone, .subtwo, .subthree, .subfour {
+    border: 3px solid #3882F6;
+    border-radius: 15px;
+    height: 150px;
+    width: 150px;
 }
 
 .three {
@@ -103,4 +131,7 @@ button {
 
 .five {
     background-color: #1F2937;
+    text-align: center;
+    color: #eee;
+    padding: 20px;
 }
