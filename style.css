@@ -123,6 +123,20 @@ h1 {
 
 .three {
     background-color: #E5E7EB;
+    display: flex;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: lighter;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 280px;
+    
+}
+
+.quote {
+    height: 100px;
+    width: 400px
+    
 }
 
 .four {
